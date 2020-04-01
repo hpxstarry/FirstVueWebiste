@@ -23,6 +23,6 @@ git add -A
 git commit -m 'deploy'
 
 # deploy
-git push -f git@github.com/hpxstarry/FirstVueWebiste.git gh-pages
+git push -f https://github.com/hpxstarry/FirstVueWebiste.git master:gh-pages
 
 cd -
